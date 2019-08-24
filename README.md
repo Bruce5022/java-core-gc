@@ -1,2 +1,1 @@
-# java-core-gc
-垃圾回收器专题研究
+# Java GC 专题研究
