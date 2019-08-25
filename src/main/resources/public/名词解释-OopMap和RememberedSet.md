@@ -1,5 +1,11 @@
 # OopMap 和 RememberedSet 介绍
 
+
+## 安全点 Safepoint 说明
+<img src="https://raw.githubusercontent.com/Bruce5022/java-core-gc/master/src/main/resources/files/savepoint.png" width="80%">
+
+
+
 ### 结论
 ```
 OopMap 用于枚举 GC Roots ; RememberedSet 用于可达性分析。
